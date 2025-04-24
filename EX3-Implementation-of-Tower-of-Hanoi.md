@@ -12,11 +12,34 @@ To write a C program to implement Tower of Hanoi
 
 ## Program:
 ```
-/*
+
 Program to implement Tower of Hanoi
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Krishna Prasad S 
+RegisterNumber:  212223230108
+
+```
+```c
+#include<stdio.h>
+
+void TOH(int n,char x,char y,char z)
+{
+   if(n == 1)
+   {
+      
+      printf("%c to %c\n", x,y);
+      return;
+   }
+   TOH(n-1,x,z,y);
+   printf("%c to %c\n", x, y);
+   TOH(n-1,z,y,x);
+}
+
+int main()
+{
+   int n = 2;
+   TOH(n,'A','B','C');
+}
+
 ```
 
 ## Output:
