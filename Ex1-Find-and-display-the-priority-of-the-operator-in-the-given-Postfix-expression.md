@@ -18,7 +18,7 @@ Developed by: Krishna Prasad S
 RegisterNumber:  212223230108
 
 ```
-```c
+```
 
 int priority(char x)
 {
