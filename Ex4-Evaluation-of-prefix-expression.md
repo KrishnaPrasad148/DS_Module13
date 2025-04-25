@@ -86,7 +86,7 @@ void evalprefix(char p[50])
 
 int  main()
 {
-    char str[] = "+-2*341";
+    char str[] = "+9*26";
     evalprefix(str);
     return 0;
 }
