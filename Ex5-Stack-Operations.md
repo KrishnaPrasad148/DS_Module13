@@ -46,6 +46,7 @@ char pop()
 
 ```
 ## Output:
+![437311737-49cba1a6-9421-47cd-a84e-3118bf29135c](https://github.com/user-attachments/assets/1c9baf94-3960-4799-a1be-a64788f17e8a)
 
 
 
