@@ -115,6 +115,7 @@ int main()
 ```
 
 ## Output:
+![437343854-0b145590-36d4-494b-b57d-ae01fbcae9c4](https://github.com/user-attachments/assets/2b35c228-2f75-4ee4-9961-707488f66263)
 
 
 
