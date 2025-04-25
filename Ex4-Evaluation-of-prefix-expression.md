@@ -94,6 +94,7 @@ int  main()
 ```
 
 ## Output:
+![437348076-17e818f5-e7d0-49ed-850d-35aed104df29](https://github.com/user-attachments/assets/50f5334a-09c4-458d-84b1-1d341fa921d9)
 
 
 
