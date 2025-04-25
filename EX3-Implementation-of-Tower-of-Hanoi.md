@@ -45,6 +45,7 @@ int main()
 ```
 
 ## Output:
+![437346534-8253c1e6-eee0-4509-bccb-7a8fe02ca4d3](https://github.com/user-attachments/assets/429fad0b-30bb-4a0f-b174-2021d0988cdc)
 
 
 
